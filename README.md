@@ -28,5 +28,5 @@ Here are some of the projects I have worked on:
 - **Chess Game (C++):** A chess project demonstrating object-oriented programming, game logic, and data structures.
 - **Tic-Tac-Toe (C#):** A two-player game demonstrating C# programming and user interface development.
 - **Guess the Number (Java):** A number guessing game demonstrating Java fundamentals, random number generation, and collections.
-- 
+
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
